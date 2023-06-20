@@ -24,7 +24,7 @@ of basics is key & nessesary to understanding more complex problems.
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <br />
 
-###
+#
 
 ### 📊 Stats
 
