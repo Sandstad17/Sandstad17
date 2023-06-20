@@ -34,20 +34,36 @@ of basics is key & nessesary to understanding more complex problems.
 
 ### Courses taken in School
 
+Taken: 
+
 <ul>
-<li>Databases (DATA1500) </li>
+<li>Algoritms & Datastructures (DATS2300)</li>
 <li>Programming (DAPE1400) </li>
-<li>Technology and society for programmers (DATA1100)</li>
-<li>Interaction design & prototyping (ADTS1600)</li>
-<li>Webdevelopment & inclusive design (DATA1200) </li>
+<li>Databases (DATA1500) </li>
+<li>Technology & society for programmers (DATA1100)</li>
+<li>Interactiondesign & prototyping (ADTS1600)</li>
+<li>Web development & inclusive design (DATA1200) </li>
 <li>Web programming (DATA1700) </li>
 <li>Human-Computer interaction (ADSE2100)</li>
 <li>System engineering (DAFE2200) </li>
-<li>Algoritms & Datastructures (DATS2300)</li>
 <li>Internet Of Things (ADSE1310)</li>
-<li>Operating systems(DATA2500)</li>
+<li>Operatingsystems (DATA2500)</li>
 <li>Software Testing (ADTS2310)</li>
 </ul>
+
+This year: 
+
+<ul>
+<li>Data Security (ITPE3100) </li>
+<li>Web Applications (ITPE3200) </li>
+<li>App development (DAVE3600) </li>
+<li>C & C++ (DAVE3605) </li>
+<li>Bachelor project (DATA3900)</li> 
+</ul>
+
+
+
+
 
 
 <!--
