@@ -9,6 +9,18 @@ bachelor's degree late june 2024!
 
 #
 
+### 🛰️ Contact me 
+<div id="contact-badges">
+  <a href="https://www.linkedin.com/in/Christian-Sandstad/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/sandstad17/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+#
+
 ### 🧰 Languages and Tools I have used
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
