@@ -25,6 +25,8 @@ of basics is key & nessesary to understanding more complex problems.
 
 <br>
 
+---
+
 ### 📊 Stats
 
 ![Sandstad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandstad17&show_icons=true&theme=transparent)
