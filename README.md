@@ -1,6 +1,6 @@
 # Christian Øien Sandstad 👋
 
-**'Fulltime student in Applied Computer Science'** 
+**`Fulltime student in Applied Computer Science`** 
 
 I'm a fulltime student aiming to become a fullstack developer one step at a time.
 Most of my projects are built from the ground up since I believe a good foundation
@@ -23,7 +23,11 @@ of basics is key & nessesary to understanding more complex problems.
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+---
 
+### 📊 Stats
+
+![Sandstad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandstad17&show_icons=true&theme=transparent)
 
 
 
