@@ -8,7 +8,7 @@ of basics is key & nessesary to understanding more complex problems.
 
 ---
 
-### 🧰 Languages and Tools 
+### 🧰 Languages and Tools I have used
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -30,7 +30,24 @@ of basics is key & nessesary to understanding more complex problems.
 
 ![Sandstad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandstad17&show_icons=true&theme=transparent)
 
+---
 
+### Courses taken in School
+
+<ul>
+<li>Databases (DATA1500) </li>
+<li>Programming (DAPE1400) </li>
+<li>Technology and society for programmers (DATA1100)</li>
+<li>Interaction design & prototyping (ADTS1600)</li>
+<li>Webdevelopment & inclusive design (DATA1200) </li>
+<li>Web programming (DATA1700) </li>
+<li>Human-Computer interaction (ADSE2100)</li>
+<li>System engineering (DAFE2200) </li>
+<li>Algoritms & Datastructures (DATS2300)</li>
+<li>Internet Of Things (ADSE1310)</li>
+<li>Operating systems(DATA2500)</li>
+<li>Software Testing (ADTS2310)</li>
+</ul>
 
 
 <!--
