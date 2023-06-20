@@ -11,7 +11,7 @@ bachelor's degree late june 2024!
 
 ### 🛰️ Contact me 
 <div id="contact-badges">
-  <a href="https://www.linkedin.com/in/Christian-Sandstad/">
+  <a href="https://www.linkedin.com/in/christian-sandstad-6885871b9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/sandstad17/">
