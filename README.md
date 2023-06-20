@@ -1,4 +1,4 @@
-# Christian Øien Sandstad 👋
+# ♠️ Christian Øien Sandstad ♠️
 
 **`Fulltime student in Applied Computer Science`** 
 
