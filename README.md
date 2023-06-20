@@ -4,7 +4,8 @@
 
 I'm a fulltime student aiming to become a fullstack developer one step at a time.
 Most of my projects are built from the ground up since I believe a good foundation
-of basics is key & nessesary to understanding more complex problems.  
+of basics is key & nessesary to understanding more complex problems. Im done with my
+bachelor´s degree late june 2024!
 
 #
 
